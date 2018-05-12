@@ -1,2 +1,2 @@
 # Titanic
-The start of Github
+The start of Kaggle with R
